@@ -7,4 +7,4 @@
 
 Then open http://localhost:3000/ on the browser. Check the console log
 
-Click to open the notification to open the link
+Click the notification to open the link
